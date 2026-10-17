@@ -1,3 +1,3 @@
-STUDENT_NAME = ""
-GROUP = ""
+STUDENT_NAME = "Мацакова Ангелина Валериевна"
+GROUP = "114"
 
